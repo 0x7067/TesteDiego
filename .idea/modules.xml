@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subconjunto.iml" filepath="$PROJECT_DIR$/.idea/modules/subconjunto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subconjunto_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subconjunto_main.iml" group="subconjunto" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subconjunto_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subconjunto_test.iml" group="subconjunto" />
+    </modules>
+  </component>
+</project>
